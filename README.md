@@ -1,4 +1,4 @@
-# dataset-gameshop# 📊 Análise Estratégica de Vendas — GamesShop (DIO)
+📊 Análise Estratégica de Vendas — GamesShop (DIO)
 
 Projeto do desafio da DIO utilizando IA generativa (ChatGPT) para analisar a base de vendas da GamesShop e gerar insights estratégicos aplicáveis ao negócio.
 
